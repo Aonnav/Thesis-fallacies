@@ -85,7 +85,7 @@
 83;Cathy is opposed to social media because she would rather have a face-to-face conversation. However, more and more of Cathy's friends have joined social media sites, so Cathy feels like she needs to create an account as well.;bandwagon
 84;Ian was raised in a Christian home. When Ian goes to college, many of the students do not believe in Jesus and do not attend church. Ian begins to doubt his faith because of his new friends' lack of faith.;bandwagon
 85;During the obstacle course, Tanner believes that going left will get them out of the maze, but everyone else thinks they should go right. So, Tanner goes with the group.;bandwagon
-86;"Commercial argues that 'everyone' likes a specific brand of dessert.";bandwagon
+86;Commercial argues that 'everyone' likes a specific brand of dessert.;bandwagon
 87;Caroline eats a well-rounded diet and exercises on a regular basis. However, all of her friends at work are starting a low-carb diet that consists mostly of protein shakes. Her officemate tells Caroline about their plan and how they're going to all keep each other accountable, so she should join in. Caroline decides this must be the healthy thing to do so she agrees to do this special diet along with everyone else.;bandwagon
 88;Because everyone else goes away to college, it must be the right thing to do.;bandwagon
 89;Sarah believes social media is damaging to relationships. She prefers face-to-face interactions and thinks communication can be misunderstood through social media. However, because all of her friends have joined and talk to each other through this medium, Sarah has decided it must not be that bad and creates an account. ;bandwagon
@@ -225,7 +225,7 @@
 223;Michael Jackson, Kurt Cobain, and Jimi Hendrix were rock stars who died young. Therefore, if you become a rock star, don't expect to live a long life.;false cause
 224;There are more laws on the books than ever before, and more crimes are being committed than ever before. Therefore, to reduce crime, we must eliminate the laws.;false cause
 225;Our garage sale made lots of money before Joan showed up. Obviously, she scared off all the customers.;false cause
-226;"My new sport psychology intervention works! I chose the player with the lowest batting average based on the last game from each of the teams in our amateur baseball league. Then I gave each of them my 5-minute intervention. And almost all of them improved their batting average in the next game!"" (Note: this example may also involve the statistical phenomenon of regression to the mean.";false cause
+226;"My new sport psychology intervention works! I chose the player with the lowest batting average based on the last game from each of the teams in our amateur baseball league. Then I gave each of them my 5-minute intervention. And almost all of them improved their batting average in the next game!";false cause
 227;Students are poor writers because they watch too much TV;false cause
 228;The picture on Jim's old TV set goes out of focus. Jim goes over and strikes the TV soundly on the side and the picture goes back into focus. Jim tells his friend that hitting the TV fixed it.;false cause
 229;My new way of obtaining informed consent helps prevent dropouts. I chose the three therapists in our clinic who had the highest dropout rates and taught them my new informed consent procedure. The first month that they started using it, all three had significantly lower dropout rates.;false cause
@@ -272,12 +272,12 @@
 270;Since many people believe this, then it must be true;bandwagon
 271;Katie likes to read and would rather do that than play sports. Her friends make fun of her and tell her that reading is for nerds. Katie stops reading so much and starts to play sports more.;bandwagon
 272;Royal's promoting their team for the next season by telling people to come join the team because everyone else has.;bandwagon
-273;Marie notices that many of her friends have started eating a low-carb diet and drinking protein shakes. Marie decides that if this many friends are eating this way that this must be the healthy way to eat so she joins them. This is an example of which logical fallacy?;bandwagon
+273;Marie notices that many of her friends have started eating a low-carb diet and drinking protein shakes. Marie decides that if this many friends are eating this way that this must be the healthy way to eat so she joins them.;bandwagon
 274;Cathy is opposed to social media because she would rather have a face-to-face conversation. However, more and more of Cathy's friends have joined social media sites, so Cathy feels like she needs to create an account as well.;bandwagon
 275;Marcus wants to go to a small community college close to home, but most of the kids in his class are applying to larger colleges out of state. Marcus decides that he should also apply to those colleges.;bandwagon
 276;America has to act now to reduce illegal immigration. Recent studies show that the vast majority of Americans think that illegal immigration is a problem.;bandwagon
 277;"In the court trial deliberations, Juror Seven says, ""There are still eleven of us who think he's guilty. You're alone."" His attempt to use numbers to persuade Eight is: ""If everyone believes it, you should too.""";bandwagon
-278;"An influencer posts on Instagram that the restaurant ""EP is poppin'! Everyone worth knowing is here tonight - come on down!"" -- this is an example of:";bandwagon
+278;"An influencer posts on Instagram that the restaurant ""EP is poppin'! Everyone worth knowing is here tonight - come on down!"";bandwagon
 279;Officer, I was only driving as fast as everyone around me. You can't give me a ticket for doing what every other driver on the road was also doing.;bandwagon
 280;God must exist because every culture has some sort of belief in a higher being.;bandwagon
 281;Matthew: Everyone believes that teachers get paid enough for the job they do. Therefore, it must be true.;bandwagon
@@ -338,7 +338,7 @@
 336;We should give the other applicant the job because he has a poor family and he needs to provide for them. It looks like he suffers a lot!;appeal to emotion
 337;"""I should receive an 'A' in this class. I had a tough week!"" Hadi begged";appeal to emotion
 338;"""Mrs Roth, I know I haven't done any of the assignments, but I need a C anyway because I'm asking nicely and I'm good person, and I'm going to get in trouble if you don't.""";appeal to emotion
-339;Saying that you support a specific candidate for class president, only because he has recently been diagnosed with cancer is an example of which fallacy?;appeal to emotion
+339;Saying that you support a specific candidate for class president, only because he has recently been diagnosed with cancer;appeal to emotion
 340;"""I know the exam is graded based on performance, but you should give me an A. My cat has been sick, my car broke down, and I've had a cold, so it was really hard for me to study!""";appeal to emotion
 341;"""Sir, please let me take the exam. I was late because I need to cook our breakfast and wash the dishes.""";appeal to emotion
 342;"""You cannot detain me. I am still grieving my cat's death.""";appeal to emotion
