@@ -3,7 +3,7 @@ import pandas
 import time
 from sklearn.metrics import confusion_matrix, classification_report
 
-openai.api_key = "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"
+openai.api_key = ""
 
 df = pandas.read_csv(r'D:\Documents\Uni\TW\B3\Scriptie\Stats\Scriptie\full.csv', sep = ';')
 
