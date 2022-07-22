@@ -1,0 +1,472 @@
+;text;fallacy
+0;We can't believe what he is saying because he had sex with a prostitute.;ad hominem
+1;Of course he is opposed to rent control: he owns 6 apartment buildings himself!;ad hominem
+2;Pay no attention to her arguments against abortion. I happen to know that she had three abortions herself!;ad hominem
+3;You're saying that I should clean up my room? But you never clean up yours!;ad hominem
+4;Don't believe anything you read in that newspaper!;ad hominem
+5;I don't believe a word of what Hillary is saying. didn't her husband have sex in the White House?!;ad hominem
+6;How can our leaders say they are going to war in Iraq to create a democracy there when they won't listen to the majority who are against this war?;ad hominem
+7;You haven't held a steady job since 1992. Worse than that, we couldn't find a single employer who'd provide you with a good reference.;ad hominem
+8;You've only ever lived in the city. The issues that matter to America's heartland are clearly beyond your comprehension.;ad hominem
+9;People like you don't understand what it's like to grow up black in America. You have no right to argue about the gang violence on our streets.;ad hominem
+10;You cheated and lied to your wife, but you expect the jury to believe you now?;ad hominem
+11;Well, it's pretty obvious that your political party doesn't know how to be fiscally responsible, so I wouldn't expect you to be either.;ad hominem
+12;Just look at that face! How could anyone vote for that?;ad hominem
+13;Well, I think we need to look at Senator Smith's failures regarding this issue.;ad hominem
+14;You don't even belong to a church. How can you claim to be a Christian?;ad hominem
+15;The only reason you could possibly be in favor of this is because you're not being honest about your own sexuality.;ad hominem
+16;Of course you would say that. You believe life begins at conception and have never studied alternative facts.;ad hominem
+17;Perhaps if you weren't Mormon, you would see this quite differently.;ad hominem
+18;You wouldn't understand since you have never had to struggle.;ad hominem
+19;This is a female issue. As a man, how can you have an opinion about this?;ad hominem
+20;You didn't even finish high school. How could you possibly know about this?;ad hominem
+21;Well, it's not like you graduated from a good school, so I can see why you wouldn't know how to properly grade a writing assignment.;ad hominem
+22;You're clearly just too young to understand.;ad hominem
+23;How can you make a decision about someone having marital problems if you've never been married yourself?;ad hominem
+24;You are from the United States, so you could never understand what it's like to live in a country like that.;ad hominem
+25;Hey, Professor Moore, we shouldn't have to read this book by Freud. Everyone knows he used cocaine.;ad hominem
+26;Socrates' arguments about human excellence are rubbish. What could a man as ugly as he know about human excellence.;ad hominem
+27;Yeah, I think everyone's opinion counts on moral matters like that, but that Lila sleeps around with anything. I know of at least one marriage she's broken up, so why should her opinion count on anything, much less morality?;ad hominem
+28;Of course Marx' theories about the ideal society are bunk. The guy spent all his time in the library.;ad hominem
+29;We cannot approve of this recycling idea. It was thought of by a bunch of hippie communist weirdos.;ad hominem
+30;There's no reason to take seriously Nietzsche's ideas about the Superman. Weak and sickly all his short life, of course he found this concept captivating. In psychology, we call this compensation.;ad hominem
+31;I was assigned a personal trainer at the Rec, and he gave me a new workout program. But I don't have any confidence in his expertise, since he has obvious trouble controlling his own appetite.;ad hominem
+32;No, I will not reply. I see no need to defend my views against the objections of ignoramuses.;ad hominem
+33;How can you argue your case for vegetarianism when you are enjoying that steak?;ad hominem
+34;He's not a great athlete, he's a fraud, a cheat and a liar. That's why not everybody is ‘happy for Lance.';ad hominem
+35;My opponent was (allegedly) wrong in the past, therefore he is wrong now.;ad hominem
+36;My opponent was not decent in his arguments in the past, so now he is not either.;ad hominem
+37;Now you tell me she looks presidential, folks. I look presidential.;ad hominem
+38;That's what you'd expect someone like him to say.;ad hominem
+39;She is for raising the minimum wage, but she is not smart enough to even run a business.;ad hominem
+40;If you can't be loyal and support the way your government chooses to use taxes, then you should just leave the country and move somewhere else.;ad hominem
+41;Well, you don't know anything about this field, so why should anyone listen to you?;ad hominem
+42;You're not an economics professor, so there's not reason for me to listen to you.;ad hominem
+43;You're a fascist, so clearly we shouldn't listen to what you have to say about education.;ad hominem
+44;You're only saying that because you want to show support for the president that you voted for.;ad hominem
+45;You clearly don't even care about public education, since you sent your own kids to a private school.;ad hominem
+46;Well, the Nazis also thought that, so you're like the Nazis.;ad hominem
+47;If you don't like it here, then you should just leave and go somewhere where they have the kind of education that you want.;ad hominem
+48;I think that you're stupid and that nobody cares about your opinion.;ad hominem
+49;What would you know about long-term relationships? You're not even married!;ad hominem
+50;Sam asks the audience whether we should believe anything from a woman who isn't married, was once arrested, and smells a bit weird.;ad hominem
+51;My opponent suggests that lowering taxes will be a good idea -- this is coming from a woman who eats a pint of Ben and Jerry's each night!;ad hominem
+52;Tony wants us to believe that the origin of life was an “accident”.  Tony is a godless SOB who has spent more time in jail than in church, so the only information we should consider from him is the best way to make license plates.;ad hominem
+53;Secretary of State John Kerry says that there is less violence than usual in the world right now. Meanwhile the Director of National Intelligence, James Clapper, says the opposite, that terrorism is more violent and dangerous than ever. Since Clapper is Director of National Intelligence, maybe Kerry should have the title Director of National Stupidity.;ad hominem
+54;Excessive pride and envy have destroyed Jean-Jacques, my illustrious philosopher. That monster dares speak of education! He abandoned his children and the tramp with whom he made them.;ad hominem
+55;What could you possibly know about this, you are an unemployed loser who spends all his time watching Netflix.;ad hominem
+56;Friedrich Nietzsche was an ugly man who never married, you shouldn't take any of his ideas seriously.;ad hominem
+57;Richard Dawkins, an evolutionary biologist and perhaps the foremost expert in the field, says that evolution is true. Therefore, it's true.;appeal to authority
+58;How do I know the adult film industry is the third largest industry in the United States? Derek Shlongmiester, the adult film star of over 50 years, said it was. That's how I know.;appeal to authority
+59;Channeling the spirits of the dead is real, because John Edward says he can do it and he is an expert.;appeal to authority
+60;My favorite actor, who appeared in a movie about AIDS, has testified that the HIV virus doesn't really cause AIDS and that there has been a cover-up. So, I think that AIDS must be caused by something other than HIV and the drug companies are hiding it so that they can make money from expensive anti-HIV drugs.;appeal to authority
+61;According to government experts, the new nuclear storage facility poses no dangers.;appeal to authority
+62;Environmental experts have demonstrated that global warming does not really exist.;appeal to authority
+63;I know a chemist who is an expert in his field, and according to him evolution is nonsense.;appeal to authority
+64;They say that crime is increasing because of a lax court system.;appeal to authority
+65;If the Pope says that an aspect of doctrine is true, then it should be added to the creed, since he is infallible.;appeal to authority
+66;The mayor said that the crime rate is down. The statistics claiming otherwise must be erroneous.;appeal to authority
+67;Being a movie star gave me the motivation to develop this new diet, which is safer and more effective than conventional diets.;appeal to authority
+68;Our new diet is endorsed by this famous movie star, who said that it is safer and more effective than conventional diets.;appeal to authority
+69;I'm following this new diet, because my favorite movie star said that it's safer and more effective than conventional diets.;appeal to authority
+70;They say that this new diet is safer and more effective than conventional diets, which is why I've decided to use it.;appeal to authority
+71;As a movie star who won multiple Academy Awards and who's latest movie series made over a billion dollars in the US alone, I had a strong motivation to find a way to lose weight. That's why I developed this new diet, which is safer and more effective than conventional diets.;appeal to authority
+72;I don't believe in the conventional diets that doctors and dietitians try to get you to use. I prefer this new diet, which my favorite movie star just said is safer and more effective.;appeal to authority
+73;This diet is safer and more effective than conventional diets, because that's what my favorite movie star said.;appeal to authority
+74;Albert Einstein, one of the smartest people ever, said that the best and healthiest breakfast is bacon and eggs, so it must be true.;appeal to authority
+75;Climate change cannot be real because one environmental scientist, who has been studying climate change, says it is not real.;appeal to authority
+76;Not able to defend his position that evolution 'isn't true' Bob says that he knows a scientist who also questions evolution (and presumably isn't a primate).;appeal to authority
+77;Everyone is going to get the new smart phone when it comes out this weekend. Why aren't you?;bandwagon
+78;I saw Cady Heron wearing army pants and flip-flops, so I bought army pants and flip-flops.;bandwagon
+79;You believe that those who receive welfare should submit to a drug test, but your friends tell you that idea is crazy and they don't accept it. You decide to change your position based on their beliefs.;bandwagon
+80;Katie likes to read and would rather do that than play sports. Her friends make fun of her and tell her that reading is for nerds. Katie stops reading so much and starts to play sports more.;bandwagon
+81;Marcus wants to go to a small community college close to home, but most of the kids in his class are applying to larger colleges out of state. Marcus decides that he should also apply to those colleges.;bandwagon
+82;Marie notices that many of her friends have started eating a low-carb diet and drinking protein shakes. Marie decides that this must be the healthy way to eat, so she joins them.;bandwagon
+83;Cathy is opposed to social media because she would rather have a face-to-face conversation. However, more and more of Cathy's friends have joined social media sites, so Cathy feels like she needs to create an account as well.;bandwagon
+84;Ian was raised in a Christian home. When Ian goes to college, many of the students do not believe in Jesus and do not attend church. Ian begins to doubt his faith because of his new friends' lack of faith.;bandwagon
+85;During the obstacle course, Tanner believes that going left will get them out of the maze, but everyone else thinks they should go right. So, Tanner goes with the group.;bandwagon
+86;"Commercial argues that ""everyone"" likes a specific brand of dessert.";bandwagon
+87;Caroline eats a well-rounded diet and exercises on a regular basis. However, all of her friends at work are starting a low-carb diet that consists mostly of protein shakes. Her officemate tells Caroline about their plan and how they're going to all keep each other accountable, so she should join in. Caroline decides this must be the healthy thing to do so she agrees to do this special diet along with everyone else.;bandwagon
+88;Because everyone else goes away to college, it must be the right thing to do.;bandwagon
+89;Sarah believes social media is damaging to relationships. She prefers face-to-face interactions and thinks communication can be misunderstood through social media. However, because all of her friends have joined and talk to each other through this medium, Sarah has decided it must not be that bad and creates an account. ;bandwagon
+90;Carling Lager, Britain's Number One Lager;bandwagon
+91;"[Margaret] Mitchell enhanced the GWTW [Gone With the Wind] mystique by never publishing another novel. But who would be so churlish as to want more? Read it. Ten million (and counting) Americans can't be wrong, can they?""";bandwagon
+92;Mcdonalds has served 100 billion people in the world. It must be the best fast food restaurant in the world.;bandwagon
+93;Officer, I think I don't deserve a ticket: Everyone is going this speed, and if I went slower, I wouldn't be going with the stream of traffic.;bandwagon
+94;There must be some truth to astrology since around 25% of adults in America believe in it. That many people can't be wrong!;bandwagon
+95;It may be against the law to drink alcohol if you are under 18 years old, but almost everyone drinks anyway, so it must be fine.;bandwagon
+96;There must be a God because people in every culture believe in a higher being.;bandwagon
+97;Whilst rallying support for his plan to fundamentally undermine citizens' rights, the Supreme Leader told the people they were either on his side, or they were on the side of the enemy.;false dilemma
+98;You must be a Republican or Democrat. You are not a Democrat. Therefore, you must be a Republican.;false dilemma
+99;Either support this bill or be unpatriotic.;false dilemma
+100;Either buy this car or be unhappy. ;false dilemma
+101;Either vote for this law or be a Nazi. ;false dilemma
+102;Either support all forms of abortion or be against all forms. ;false dilemma
+103;You must support dualism or materialism. ;false dilemma
+104;Either absolutely prove your point or it is all relative. ;false dilemma
+105;Strong artificial intelligence is possible now or never. ;false dilemma
+106;The president is either a genius or an idiot. ;false dilemma
+107;It is always wrong to lie or it is never wrong to lie.;false dilemma
+108;We shouldn't prevent all citizens from owning guns. Hunters and gun collectors have a perfect right to own weapons. Therefore gun control laws of any kind are a bad idea.;false dilemma
+109;My contribution to the Red Cross won't solve the problem of world hunger, so it won't do any good. I won't bother to make a contribution at all.;false dilemma
+110;Vote for me or live through four more years of higher taxes.;false dilemma
+111;Donate to my campaign if you care about the future.;false dilemma
+112;If you want our country to be safe, we must increase military spending.;false dilemma
+113;Either we let every immigrant into our country, or we close the borders for everyone.;false dilemma
+114;If you don't use our beauty products, you'll never look youthful.;false dilemma
+115;You can look cool in our clothes, or you can look like a loser.;false dilemma
+116;Do you want to drink our beer or our competitor's unhealthy, watered-down beer?;false dilemma
+117;Subscribe to our streaming service or be stuck with cable.;false dilemma
+118;You can either eat at this restaurant or have a sad TV dinner alone.;false dilemma
+119;Would you rather pursue your passion or be stuck in a 9-to-5 job?;false dilemma
+120;Would you rather invest in your future or enjoy your money now?;false dilemma
+121;You can either get married or be alone for the rest of your life.;false dilemma
+122;You're either for the war or against the troops.;false dilemma
+123;Roger opposed an atheistic argument against Christianity, so he must be a Christian.;false dilemma
+124;I thought you cared about other people, but I didn't see you at the fundraiser for the Harris Family.;false dilemma
+125;Drink water every day and be healthy, or continue to drink sodas and be unhealthy. ;false dilemma
+126;You either support Hillary Clinton for President or you don't believe in women's rights.;false dilemma
+127;The animal shelter is a place that values animal rights and never euthanizes animals, or the animal shelter is a place that kills innocent animals.';false dilemma
+128;You either like kids or you don't.;false dilemma
+129;If we don't reduce public spending, our economy will collapse.;false dilemma
+130;Either medicine can explain how Ms. X was cured, or it is a miracle.;false dilemma
+131;The universe could not have been created from nothing, so it must have been created by an intelligent life force.;false dilemma
+132;Annie must like Starbucks because all white girls like Starbucks.;faulty generalization
+133;A driver with a New York license plate cuts you off in traffic. You decide that all New York drivers are terrible drivers.;faulty generalization
+134;No one in your family surfs? But I thought you said you lived in California before this.;faulty generalization
+135;All women are bad drivers.;faulty generalization
+136;You visit a new country and the first person you meet in the airport is rude. You send a message to a friend back home that everyone in this new country is rude.;faulty generalization
+137;Kevin's grandparents do not know how to use a computer. Kevin thinks that all older people must be computer illiterate.;faulty generalization
+138;MeowMeowTweet is American-made skincare. I used it, and it gave me zits. American-made skincare gives people acne.;faulty generalization
+139;People from big cities are not as friendly as those from small towns.;faulty generalization
+140;That type of car is poorly made. A friend of mine has one, and it continually gives him trouble.;faulty generalization
+141;I was just on the phone with a Southerner, and I could barely keep up! All Southerners talk fast.;faulty generalization
+142;I have several female friends and every one of them loves country music. All females love country music.;faulty generalization
+143;I can't understand why people are complaining that it's difficult to find a job in this job market. My daughter and I got jobs without any trouble.;faulty generalization
+144;On my walk to work this morning, a woman on her bike nearly ran me off the sidewalk. I hadn't realized that cyclists were so aggressive and rude!;faulty generalization
+145;All of those who hate the Duterte administration are CPP-NPA supporters.;faulty generalization
+146;Mrs. Miller taught your older brother, who was the class clown. She decides to be strict with you from the very first day of class because she thinks you will be a clown, too.;faulty generalization
+147;You shouldn't go to 'Vomito'. I went once and the food was awful.;faulty generalization
+148;My roommate from Maine loves lobsters, therefore all people from Maine love lobsters.;faulty generalization
+149;The spider that bit was poison, therefore all spiders are poison.;faulty generalization
+150;The child did not do his chores so therefore all children are lazy.;faulty generalization
+151;Alissa has class with a football player who is a class clown. He disrupts the class and is failing. Alissa decides all football players are not serious students.;faulty generalization
+152;Fred, the German, stole my wallet. Therefore, all Germans are thieves.;faulty generalization
+153;All people who live in England have bad teeth.;faulty generalization
+154;Look at people like Michael Vick and OJ Simpson. Professional athletes really have no sense of morality.;faulty generalization
+155;My dog got sprayed by a skunk this morning on the trail therefore, trail running is dangerous.;faulty generalization
+156;My parents are vegetarians, and they are good people. Therefore, all vegetarians must be good people.;faulty generalization
+157;Fred, the Australian, stole my wallet. Thus, all Australians are thieves.;faulty generalization
+158;Asians make lousy athletes, but do well at the Math Olympiad.;faulty generalization
+159;White men can't jump. No, really, they can't!;faulty generalization
+160;My father smoked four packs of cigarettes a day since age fourteen and lived until age sixty-nine. Therefore, smoking really can't be that bad for you.;faulty generalization
+161;We need to stop allowing colleges to increase tuition every year. The next thing we know, it's going to cost more to attend college for one semester than it is to buy a new home!;faulty generalization
+162;You should never gamble. Once you start gambling you find it hard to stop. Soon you are spending all your money on gambling, and eventually you will turn to crime to support your earnings.;faulty generalization
+163;If you don't study, you'll fail your test. Then you will do poorly in the class and you GPA will fall. You won't get into a good college, so you'll never get a decent job and you'll end up poor and homeless.;faulty generalization
+164;Yesterday you were 5 minutes late, today 10, and tomorrow you won't even show up!;faulty generalization
+165;"""Our planet is going to be destroyed! People are creating too much waste, the temperature will continue to rise, natural disasters will occur more frequently, the animals will starve to death, and the planet will basically turn into Venus!""";faulty generalization
+166;If I don't take the right classes in high school, then I won't be able to get into a good college. If I don't get into a good college, then I won't be able to get a job. If I can't get a job, then I am going to end up homeless.;faulty generalization
+167;"""We can't allow students to be paid for their grade because next thing you know they'll expect to be paid just for waking up in the morning.""";faulty generalization
+168;Victor, the company you work for just filed for bankruptcy! How can I trust you with our money?;faulty generalization
+169;Don't use iPhones. Teachers use iPhones and teachers are extremely dorky. If you use an iPhone, you will be dorky like a teacher!;faulty generalization
+170;Did you really vote for Donald as class treasurer? Didn't you hear that his uncle was imprisoned for embezzling $1.5 million?;faulty generalization
+171;Eugene is silly in class. Harry is his friend, so Harry must be silly, too.;faulty generalization
+172;Men score better on math than women do. Jerry is a man. Therefore, Jerry is better at math than Sylvia, who is a woman.;faulty generalization
+173;President Petutti ordered a military strike that killed many civilians. He is no different than any other mass murder and he belongs in prison!;faulty generalization
+174;A person hanging out in a bar will be an alcoholic;faulty generalization
+175;Daniel was a precocious child and had a liking for logic. He reasoned that atoms are invisible, and that he was made of atoms and therefore invisible too. Unfortunately, despite his thinky skills, he lost the game of hide and go seek.;faulty generalization
+176;There are so many experiences in the human realm that are wonderful. Sexual intimacy between two willing adults who love each other is wonderful. A therapist helping a client is wonderful. When the relationship between a therapist and client is so deep that it could be characterized as love, it's wonderful. When all these acts become part of one process between two people, it must be exceptionally wonderful. How could anyone condemn such a wonderfully human process as unethical?;faulty generalization
+177;A car makes less pollution than a bus. Therefore, cars are less of a pollution problem than buses;faulty generalization
+178;If I make an exception for you then I'll have to make an exception for everyone;faulty generalization
+179;If we get rid of assault weapons for citizens then we will also soon lose freedom of speech and all freedoms as other countries rush in to conquer us (if the zombies don't exterminate us first!);faulty generalization
+180;If you forget to floss, you will get cavities, and if you get cavities, you will lose all your teeth by the time you're 30.;faulty generalization
+181;I saw John texting yesterday, and then he got in his car and drove away he must have crashed because he was texting. Therefore, cell phones should be banned.;false cause
+182;Some students failed a test last week and they all had cell phones.  Having cell phones, therefore, made them fail.;false cause
+183;A rainbow appeared in the sky the day before basketball tryouts, and I made the team! If there's a rainbow when I try out in the spring, I'm sure I'll make the team again.;false cause
+184;Siblings Dan and Joe had a serious argument, and Dan told Joe that he hated him and wished that he would get hit by a car. Two days later, Dan was told that Joe had been struck by a car. Dan blamed himself and thought that if he hadn't made the comment during their fight, Joe would not have been hit.;false cause
+185;Last year, the city of Brookfield allocated more money to public parks. This year, however, littering increased, so the increase in park funding must have been responsible.;false cause
+186;Every time I go to sleep, the sun goes down. Therefore, my going to sleep causes the sun to set.;false cause
+187;Since Lucy Sutton became vice president of the parent-teacher association, student performance has declined and teacher morale is down. We on the school board believe that Sutton bears sole responsibility for the downtrend.;false cause
+188;You oversleep and then fail a test so you assume that oversleeping causes you to fail tests;false cause
+189;Your sister broke her arm, and then you broke your nose. So you assume that a sibling breaking a bone causes you to break one too.;false cause
+190;My grandmother ate 10 cloves of raw garlic every day. Not surprisingly she lived to be 102.;false cause
+191;The economy continues to grow as the number of likes on my Instagram account continue to increase. Clearly, the two are linked.;false cause
+192;Tommy went to go swimming for the afternoon and later bought a lottery ticket. He won the lottery which must mean that swimming makes you win the lottery.;false cause
+193;Kevin's dog scratched his leg, and that night he had a fever. Kevin concluded that his dog must have infected him with something.;false cause
+194;Our soccer team was losing until I bought new shoes. We have not lost a game since I got my lucky shoes!;false cause
+195;She took a drink from the drinking fountain yesterday and now she's sick. It must have been the public fountain that made her sick.;false cause
+196;I broke a mirror earlier in the day, and then I received an F on my history final. Therefore, I received the F because I broke the mirror.;false cause
+197;Our house was burglarized right after that new family moved in next door. Therefore, that new family must have been involved.;false cause
+198;Every day, I eat cereal for breakfast. One time, I had a muffin instead, and there was a major earthquake in my city. I've eaten cereal ever since.;false cause
+199;Every time that rooster crows, the sun comes up. The rooster must control the sun.;false cause
+200;Since Samantha got that new apron, she hasn't burned any cookies. That new apron sure does help her cooking!;false cause
+201;The party was going great! Then Gerald showed up and little by little people started collecting their coats and heading home. Gerald ruined the party.;false cause
+202;My brother received the COVID-19 vaccine and then had diarrhea for a week. The vaccine is the reason my brother's bowels came undone.;false cause
+203;During the early 2000s, the search for a cause of autism led to vaccines, though no scientific link has been found between the administration of vaccines and the onset of autism. The time that children are vaccinated and the time they're diagnosed do closely correlate, however, leading upset parents to assign blame to the immunizations, for lack of a better explanation.;false cause
+204;If the country is ever going to be safe from terrorists we have to close the borders.;false cause
+205;Farmer McDonald: Ever since they put up that new power plant across the river, we haven't had a bit of rain. I'm tellin' you, mankind has got too big for its britches when it fiddles around with nature.;false cause
+206;I ate Oreos, and then I was sick the next day. It must have been the Oreos that caused my sickness.;false cause
+207;Joey's refrigerator broke after Rachel moved in therefore, Rachel caused Joey's refrigerator to break.;false cause
+208;I passed my math test after going out to the movies the night before. I should go to the movies the night before every math test!;false cause
+209;Every girl I've dated has been a nurse. I must only be compatible with nurses!;false cause
+210;Global chocolate consumption is highest in Switzerland, yet people there are among the trimmest in the industrialized world.  therefore, it's reasonable to conclude that chocolate helps keep your weight down.;false cause
+211;Jason and his family are heading to Utah to spend a week skiing. Looking at the weather reports, he notices that it is supposed to be warmer, making for lousy ski conditions. Angrily, he calls the Weather Channel and demands that they change their forecast so he will have better weather for the trip.;false cause
+212;The flu vaccine comes out every year just before the holidays, then people go and spend a lot of money. Therefore, businesses are secretly using the flu vaccine as a mind control device to increase holiday spending.;false cause
+213;Eating five candy bars and drinking two sodas before a test helps me get better grades. I did that and got an A on my last test in history.;false cause
+214;I sneezed at the same time the power went off. My sneeze did something to make the power go off.;false cause
+215;I bought new shoes then my head started itching. I must be allergic to the shoes.;false cause
+216;Fatima sneezed and she caused a tsunami in Tokyo.;false cause
+217;Jack threw up because he ate Hot Cheetos.;false cause
+218;I dropped the ball because Mercury is in retrograde.;false cause
+219;Every severe recession follows a Republican Presidency therefore Republicans are the cause of recessions.;false cause
+220;The Soviet Union collapsed after taking up atheism. Therefore, we must avoid atheism for the same reasons.;false cause
+221;Families communicate less and less in the past forty years since feminism became mainstream. Feminism is to blame for this deterioration in the family.;false cause
+222;Valencia bought a different brand of detergent at the store. She developed a rash after wearing clothes washed in the new detergent. She concluded that she was allergic to the new soap. What type of reasoning is this?;false cause
+223;Michael Jackson, Kurt Cobain, and Jimi Hendrix were rock stars who died young. Therefore, if you become a rock star, don't expect to live a long life.;false cause
+224;There are more laws on the books than ever before, and more crimes are being committed than ever before. Therefore, to reduce crime, we must eliminate the laws.;false cause
+225;Our garage sale made lots of money before Joan showed up. Obviously, she scared off all the customers.;false cause
+226;"My new sport psychology intervention works! I chose the player with the lowest batting average based on the last game from each of the teams in our amateur baseball league. Then I gave each of them my 5-minute intervention. And almost all of them improved their batting average in the next game!"" (Note: this example may also involve the statistical phenomenon of regression to the mean.";false cause
+227;Students are poor writers because they watch too much TV;false cause
+228;The picture on Jim's old TV set goes out of focus. Jim goes over and strikes the TV soundly on the side and the picture goes back into focus. Jim tells his friend that hitting the TV fixed it.;false cause
+229;My new way of obtaining informed consent helps prevent dropouts. I chose the three therapists in our clinic who had the highest dropout rates and taught them my new informed consent procedure. The first month that they started using it, all three had significantly lower dropout rates.;false cause
+230;Joe eats horribly therefore, his heart attack was caused by his eating habits.;false cause
+231;America is the best place to live, because it's better than any other country.;circular reasoning
+232;Quinoa is a delicious, plant-based source of protein because it tastes so darn good.;circular reasoning
+233;President Reagan was a great communicator because he had the knack of talking effectively to the people.;circular reasoning
+234;Plagiarism is deceitful because it is dishonest.;circular reasoning
+235;The witchcraft problem is the most urgent spiritual crisis in the world today. Why? Because witches threaten our very souls.;circular reasoning
+236;The word of Zorbo the Great is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not Ever Be Questioned.;circular reasoning
+237;Cell phones stop students from concentrating in class because they are distracting.;circular reasoning
+238;How do I know that Beth is the most intelligent person in our geometry class? I know because she's so smart.;circular reasoning
+239;Pamela never lies. She told me herself, so it must be true.;circular reasoning
+240;Thanks to her enduring popularity with employees, Ella Watson is the best-liked CEO in our company's history.;circular reasoning
+241;The number of pirates in existence decreased as the global average temperature rose. Therefore, we can conclude that hotter weather reduces piracy.;circular reasoning
+242;Companies that make huge profits must be exploiting their customers because the only way a company could make large profits is by taking advantage of their customers.;circular reasoning
+243;That restaurant is popular because everyone in town goes there.;circular reasoning
+244;Sleeping until noon is the worst thing to do because it is bad to sleep late.;circular reasoning
+245;The greatest thing that we can do is to love each other. Love is better than any other emotion.;circular reasoning
+246;I am athletic because I run, and I run because I'm athletic.;circular reasoning
+247;Whatever is less dense than water will float, because such objects won't sink in water.;circular reasoning
+248;Andanar is unfit for the position because he seems unqualified for it.;circular reasoning
+249;Shakira is the best singer in the world because she is the most talented singer there is.;circular reasoning
+250;There aren't enough parking spaces on campus because there are too many cars.;circular reasoning
+251;Only a mentally ill person would kill someone, so anyone who kills someone is automatically mentally ill.;circular reasoning
+252;Ralph Nader and Pat Buchanan are banging at the doors, and the political establishment, consisting of both politicians and the media, seems determined not to let them in on the grounds that they have no public support.;circular reasoning
+253;It says in the Bible that God exists. Since the Bible is God's word, and God never speaks falsely, then everything in the Bible must be true. So, God must exist.;circular reasoning
+254;smoking cigarettes is deadly because cigarettes can kill you;circular reasoning
+255;I deserve to have a later curfew, so you should let me stay out until 10pm!;circular reasoning
+256;Paranormal activity is real because I have experienced what can only be described as paranormal activity.;circular reasoning
+257;I hated the movie because it was the worst movie I ever saw.;circular reasoning
+258;"""All eighteen-year-olds have the right to vote because it's legal for them to vote.""";circular reasoning
+259;"""The Philippines is in poverty because of poor people.""";circular reasoning
+260;"""The Cardinals are the best football team because they're better than all the other teams.""";circular reasoning
+261;"""Everyone should like coffee: 95% of teachers do!""";bandwagon
+262;I guess I should buy my 12-year-old daughter an iPhone. Everyone at her new school has one and I want her to fit in with the other kids.;bandwagon
+263;I know the professor said the Bridges of Madison County was smarmy trash and lacked any artistic worth. But I still think he's wrong. After all, it was on the best-seller list for over 100 weeks.;bandwagon
+264;"""Because everybody thinks this way, it must be right.""";bandwagon
+265;Everyone seems to support the changes in the vacation policy, and if everyone likes them, they must be;bandwagon
+266;I am voting for Smith for President because the rest of my family is voting for him.;bandwagon
+267;Everybody else is doing it, why don't you?;bandwagon
+268;Come on! Everyone else thinks the movie is great - you should too!;bandwagon
+269;The new iPhone comes out this weekend! If you don't get it, you're not cool!;bandwagon
+270;Since many people believe this, then it must be true;bandwagon
+271;Katie likes to read and would rather do that than play sports. Her friends make fun of her and tell her that reading is for nerds. Katie stops reading so much and starts to play sports more.;bandwagon
+272;Royal's promoting their team for the next season by telling people to come join the team because everyone else has.;bandwagon
+273;Marie notices that many of her friends have started eating a low-carb diet and drinking protein shakes. Marie decides that if this many friends are eating this way that this must be the healthy way to eat so she joins them. This is an example of which logical fallacy?;bandwagon
+274;Cathy is opposed to social media because she would rather have a face-to-face conversation. However, more and more of Cathy's friends have joined social media sites, so Cathy feels like she needs to create an account as well.;bandwagon
+275;Marcus wants to go to a small community college close to home, but most of the kids in his class are applying to larger colleges out of state. Marcus decides that he should also apply to those colleges.;bandwagon
+276;America has to act now to reduce illegal immigration. Recent studies show that the vast majority of Americans think that illegal immigration is a problem.;bandwagon
+277;"In the court trial deliberations, Juror Seven says, ""There are still eleven of us who think he's guilty. You're alone."" His attempt to use numbers to persuade Eight is: ""If everyone believes it, you should too.""";bandwagon
+278;"An influencer posts on Instagram that the restaurant ""EP is poppin'! Everyone worth knowing is here tonight - come on down!"" -- this is an example of:";bandwagon
+279;Officer, I was only driving as fast as everyone around me. You can't give me a ticket for doing what every other driver on the road was also doing.;bandwagon
+280;God must exist because every culture has some sort of belief in a higher being.;bandwagon
+281;Matthew: Everyone believes that teachers get paid enough for the job they do. Therefore, it must be true.;bandwagon
+282;Get Verizon--1 billion people can't be wrong.;bandwagon
+283;"Dave wants you to break into the spooky cabin with him. ""Everyone does it"", he claims.";bandwagon
+284;"""A 2005 Gallup Poll found that an estimated 25% of Americans over the age of 18 believe in astrology - or that the position of the stars and planets can affect people's lives. This is roughly 75,000,000 people. Therefore, there must be some truth to astrology!""";bandwagon
+285;The majority of people believe advertisers should spend more money on billboards, so billboards are objectively the best form of advertisement.;bandwagon
+286;Everyone I know is making fruit smoothies for quick, portable meals, so smoothies must be really good for you.;bandwagon
+287;An increasing number of people are keeping ferrets as pets, so they must make wonderful companion animals.;bandwagon
+288;Last week, the Cowboys played the Texans in Houston. Mrs. Gibson was excited to go to the game because she is a huge Cowboys fan. Because everyone in Houston cheers for the Texans, Mrs. Gibson decided to cheer for the Texans too.;bandwagon
+289;Aliens must exist because most people believe in them.;bandwagon
+290;Shamus pointed a drunken finger at Sean and asked him to explain how so many people could believe in leprechauns if they're only a silly old superstition. Sean, however, had had a few too many Guinness himself and fell off his chair.;bandwagon
+291;"""Don't listen to Mr. Fingers when he says walk in the hallways. How can you trust someone who wears bow ties?""";ad hominem
+292;"""I can't trust that doctor's advice on how to raise my child. He has never been a mother.";ad hominem
+293;My opponent raises a good point, but can we really trust him? I mean, he moved to this town only two years ago and everyone knows that his wife left him.;ad hominem
+294;Oh, please. What would you know about labor laws? You dont even have a job.;ad hominem
+295;"""The Senator must be wrong on the issue of taxes because he's such a jerk to the people who work for him.""";ad hominem
+296;You never even finished law school, so why should I trust you to watch my children?;ad hominem
+297;Only a selfish, non-caring person would believe that this is ok.;ad hominem
+298;Bill says Jenny would make a good class president, but Bill gets bad grades, so we shouldnt vote for Jenny.;ad hominem
+299;Kelly is the most selfish, annoying person that I know. She says that we should recycle to help save the Earth, but she only thinks about herself, so she must be wrong.;ad hominem
+300;There's no way you know this - you're clearly too young to understand!;ad hominem
+301;Don't listen to her advice about math. She doesn't even know how to tie her own shoes!;ad hominem
+302;My opponent does not deserve to win the race for class president. She is a smoker and she cheated on her boyfriend last year;ad hominem
+303;Mr. Gough supports the cell phone ban and he's an idiot, so we should let teachers keep their cell phones.;ad hominem
+304;Teachers claim that cell phones distract students, but they only say that because teachers have no lives.;ad hominem
+305;You're wrong because you're ugly!;ad hominem
+306;"""My opponent suggests that lowering taxes will be a good idea, this is coming from a woman to eats a pint of Ben and Jerry's each night!""";ad hominem
+307;I'm not surprised, frankly, that someone who gets lost in his own neighborhood would argue that New York has better pizza than Chicago.;ad hominem
+308;My opponent in this election claims to have the best interests of our community at heart. However, he is separated from his family. Isn't family the basic unit of society? How can we entrust the concerns of the community to someone who was not able to keep his family together?;ad hominem
+309;Leonardo DiCaprio is just a dumb actor! What does he really know about climate change?!;ad hominem
+310;"""I can't understand how such a low performance student is able to talk about politics"".";ad hominem
+311;Don't listen to her even though she's a doctor. She isn't a good person, so her opinion is invalid.;ad hominem
+312;Mrs. Peters is nominated for teacher of the year, which is voted on by her fellow faculty members. A colleague says that she would never vote for her because she is too young.;ad hominem
+313;Marco cusses a lot, so you can't listen to a thing he says. He's not a good guy.;ad hominem
+314;Nobody in their right mind would trust that guy. I mean, look at him!;ad hominem
+315;"""He wouldn't make a good president because he looks like a sad muppet.""";ad hominem
+316;Green Peace's strategies aren't effective because they are all dirty, lazy hippies.;ad hominem
+317;Senator Ribbit is a liar. You shouldn't listen to him on anything.;ad hominem
+318;A politician arguing that his opponent cannot possibly be a good choice for women because he has been married and divorced five times.;ad hominem
+319;You've never visited another country, so who cares what you say about immigration reform!;ad hominem
+320;Of course Marx' theories about the ideal society are bunk. The guy spent all his time in the library.;ad hominem
+321;I know you don't like the cat sweater that Grandma knitted for you, but she worked so hard on it, and it will make her happy to see you wear it in the family holiday photo.;appeal to emotion
+322;We, the people, are going to work together to achieve justice, unity, and integrity.;appeal to emotion
+323;A commercial about abandoned animals needing a shelter of a forever home. They ask for a small donation to help these struggling animals.;appeal to emotion
+324;They are dangerous militants out to destroy our peaceful way of life.;appeal to emotion
+325;A real estate ad shows a happy family moving in to the home of their dreams.;appeal to emotion
+326;"""It is an outrage that the school wants to remove the vending machines. This is taking our freedom away!""";appeal to emotion
+327;Don't you want the best for your baby?;appeal to emotion
+328; You wouldn't want to let these children die, right?;appeal to emotion
+329;"""You'll make the right decision because you have something that not many people do: you have heart.""?";appeal to emotion
+330;We have a responsibility to care for this poor lost dog.;appeal to emotion
+331;You should always eat everything on your plate, think of all the children in Africa who dont always have enough food.;appeal to emotion
+332;If we don't control Covid-19, it could lead to millions of deaths. Wouldn't it make you sad to live in a country where that had happened?;appeal to emotion
+333;A dog would be a great addition to our family. Think about how wonderful it would be to come home to a happy, excited, loving dog?;appeal to emotion
+334;By rejecting God, you are rejecting goodness, kindness, and love itself.;appeal to emotion
+335;You have to give me a passing grade. I spent 150 hours on that project and missed every party this quarter.;appeal to emotion
+336;We should give the other applicant the job because he has a poor family and he needs to provide for them. It looks like he suffers a lot!;appeal to emotion
+337;"""I should receive an 'A' in this class. I had a tough week!"" Hadi begged";appeal to emotion
+338;"""Mrs Roth, I know I haven't done any of the assignments, but I need a C anyway because I'm asking nicely and I'm good person, and I'm going to get in trouble if you don't.""";appeal to emotion
+339;Saying that you support a specific candidate for class president, only because he has recently been diagnosed with cancer is an example of which fallacy?;appeal to emotion
+340;"""I know the exam is graded based on performance, but you should give me an A. My cat has been sick, my car broke down, and I've had a cold, so it was really hard for me to study!""";appeal to emotion
+341;"""Sir, please let me take the exam. I was late because I need to cook our breakfast and wash the dishes.""";appeal to emotion
+342;"""You cannot detain me. I am still grieving my cat's death.""";appeal to emotion
+343;You really should support Senator Jones and his campaign to strengthen national defense. If you do not, he will lose control of the Armed Forces Committee and likely resign from politics.;appeal to emotion
+344;Sometimes kids ride skateboards and fall off, breaking their arms or legs. Clearly, riding a skateboard is extremely dangerous. Don't you think skateboards should be banned?;appeal to emotion
+345;Medical expenses for the elderly continue to rise. If you don't buy long-term health insurance now, you probably won't be able to qualify once you're older. Sure, the insurance policy is a little expensive, but it's worth spending the money today so you don't go bankrupt in the future, becoming a burden to your family.;appeal to emotion
+346;If you don't buy the black pencils, you will get made fun of. You will not be chosen for group projects.;appeal to emotion
+347;I am going into surgery tomorrow so please pray for me.  If enough people pray for me, God will protect me from harm and see to it that I have a successful surgery and speedy recovery.;appeal to emotion
+348;"Maria has been working at her current job for more than 30 years at the same wage. She desperately wants a raise so she approaches her boss to ask for one. She says, ""You are one of the kindest people I know. You are smart and good-looking and I really love your shoes.""";appeal to emotion
+349;If there is no freewill, then we are not ultimately in control of our actions. If this is true, our entire system of justice would be seriously flawed. This would be very bad therefore, freewill must exist.;appeal to emotion
+350;If there is no objective morality, then all the bad people will not be punished for their bad behavior after death.  I dont like that therefore, morality must be objective.;appeal to emotion
+351;"""To get better schools, we have to raise taxes. If we don't, we can't have better schools.""";false dilemma
+352;The museum's new gemstones and precious minerals exhibit needs more security guards. If you don't agree, then you must be planning to steal a piece of the exhibit;false dilemma
+353;Either you decide that you can afford this stereo, or decide not to have music for a while;false dilemma
+354;Too much candy can cause cavities. You should avoid eating any candy unless you want cavities.;false dilemma
+355;Either you can save your money to buy a new car for yourself, or you can just take an Uber around for the rest of your life.;false dilemma
+356;Either you text your friend or you don't have any fun at all.;false dilemma
+357;"""The only solutions I can see to climate change is either mass extinction of humans, or passing this green bill.""";false dilemma
+358;Either you love bacon, or you're wrong.;false dilemma
+359;If you don't say the Pledge of Allegiance, then you must be a traitor.;false dilemma
+360;I'm raising funds to help cure XYZ disease. If you don't donate, then you're part of the problem.;false dilemma
+361;People either like coffee or hate it.;false dilemma
+362;Subscribe to our streaming services, or get stuck with cable!;false dilemma
+363;Either you buy me this new book, or you decide that reading is not important at all.;false dilemma
+364;You can buy the new Sensitivity perfume, or you can smell bad all day.;false dilemma
+365;We either have to cut taxes or leave a huge debt for our children.;false dilemma
+366;Vote for me or live through four more years of higher taxes.;false dilemma
+367;You can look cool in our clothes, or you can look like a loser.;false dilemma
+368;Either we go to war, or we appear weak;false dilemma
+369;Either you love me, or you hate me.;false dilemma
+370;Dad, either you let me go to the party or you're a bad dad.;false dilemma
+371;If Mom didn't turn off the air conditioner, then clearly she must be too hot.;false dilemma
+372;All of my friends are coming to my birthday party. If Micah doesn't, she might as well tell me that she doesn't like me.;false dilemma
+373;Politician: We have to decide if we are going to support school choice or if we are going to support failing schools. Those are the only two options.;false dilemma
+374;I thought you cared about other people, but I didn't see you at the fundraiser for the Children's Hospital ...;false dilemma
+375;You're with us or you're against us.;false dilemma
+376;Either go to the party or spend the night in your room crying.;false dilemma
+377;You can be a good politician and play dirty or you can drop out.;false dilemma
+378;You either support Hillary Clinton for President or you dont believe in womens rights.;false dilemma
+379;You can go to bed in 5 minutes or you can go to bed in ten minutes. What's your choice?;false dilemma
+380;We can either agree with Barbara's plan or just let the project fail. There is no other option.;false dilemma
+381;Mayor Kerr wants to create more bicycle lanes in Greenpoint. Why is he forcing us to give up our cars and bike everywhere?;straw man
+382;"""Senator Jones says that we should not fund the attack submarine program. I disagree entirely. I can't understand why he wants to leave us defenseless like that.""";straw man
+383;Why are you criticizing the Anti-Terror Law? Are you a terrorist?;straw man
+384;"You tell a person, ""I think we should all stay inside to bend the curve of COVID-19"" and they reply, ""so I guess you want people to lose their jobs then?""";straw man
+385;"Wife: I'd rather have a dog than a cat. Husband: Why do you hate cats?""";straw man
+386;My opponent in the election keeps claiming that he wants to give tax credits to poor people. That means that he wants to raise taxes for the middle class.;straw man
+387;Senator Li announced today that she plans to cut funding to early childhood education programs. The last thing we need is a government official who hates children!;straw man
+388;My opponent argues that we should abolish the soda tax. It's a shame that he wants to encourage people to eat and drink unhealthily. I say we keep it.;straw man
+389;The mayor argued that we need to reduce funding for the animal shelter in order to balance the budget. Don't vote for someone who doesn't think the government should care about animals.;straw man
+390;Ms. Long has suggested that our schools let students take statistics instead of algebra to graduate. Frankly, it is puzzling to me that she thinks algebra is a useless subject.;straw man
+391;Caroline says that she thinks her friends should not be so rude to the new girl. Jenna says that she cannot believe that Caroline is choosing to be better friends with the new girl than the girls who have always known her.;straw man
+392;"""People who don't support the proposed state minimum wage increase hate the poor.""";straw man
+393;If we take away farmers' ability to grow genetically engineered crops, if we eliminate that option, people will go hungry, in fact, people will starve. Unlike my opponent, I choose to use the technology available to us and save lives.;straw man
+394;After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenseless by cutting military spending.;straw man
+395;Students tell Ms. Higgins her hair color looks different on her. Ms. Higgins can't believe her students called her ugly and horrendous to look at.;straw man
+396;"You see someone walking their dog. The dog goes to the bathroom on a lawn but they dont pick up after their dog. You ask them to clean up after their dog, but they say, ""why do you hate dogs?""";straw man
+397;"The student didn't want to participate in the beach cleanup. Later, the student's advisor says ""I can't believe she doesn't believe in climate change"".";straw man
+398;"Advocates for a tight virus response say ""we need to limit the spread."" What they're really saying is we need to shut down everything forever, leading to massive economic damage.";straw man
+399;"""She teaches engineering, and she said that the proposed bridge was a waste of money. I can't believe she hates our city so much.""";straw man
+400;What I object to most about those people who oppose capital punishment is that they believe that the lives of convicted murderers are more important than the lives of the police and prison guards who protect us. But, obviously, since the lives of those who protect us are of the greatest value, no one should oppose capital punishment.;straw man
+401;"""Advocates of legalized abortion predicted it would solve our social problems. Instead, this destruction of one-fourth of a generation has left a more violent society in its wake: Child abuse has exploded, from 167,000 estimated cases in 1973 to 2.4 million in 1989, according to the National Center of Child Abuse and Neglect - a 1,400% increase. Teen suicide, among non-aborted and thus presumably ""wanted"" children, has doubled. Violent crime has more than doubled.""";straw man
+402;Feminists want to ban all pornography and punish everyone who looks at it! But such harsh measures are surely inappropriate.;straw man
+403;Al Gore's support of the discussion of sexual orientation issues on Ellen is  dangerous:  he advocates the exposure of children to sexually explicit materials,  which is wrong.;straw man
+404;Recent auto accidents in your neighborhood have led you to propose to the city council that the speed limit along Main Street be reduced to calm the traffic flow. Opponents complain that reducing speed limits all over town is counterproductive and an unnecessary burden on drivers.;straw man
+405;"If the argument is supposed to be about whether or not we, as the American public should wear masks, and you argue: ""Asking an infant to wear a mask is ridiculous!""";straw man
+406;Mr. Stark's idea for implementing affirmative action in the university's admission process is complete folly. He say's he wants the student body to represent diversity in the community. But that's ridiculous. I suppose this means we'll have to throw out our academic standards while were at it. After all, if we're going to let students into our prestigious institution just because of their gender or the color of their skin, then what's going to happen to our reputation?;straw man
+407;Pamela is the class secretary. She says that she thinks that the class should do more service projects. Mark says he cant believe Pamela doesnt support the annual school dance.;straw man
+408;Student tells his professor that he thinks some of Donald Trump's positions have merit. Professor says he can't believe that the student believes in support racism.;straw man
+409;The secretary claims that mining is doing more harm than good to the environment and to the people. The pro-mining politicians accused her of being anti-poor who values the life of a tree more than the life of miners whose only source of income is mining.;straw man
+410;Many democrats don't want a border wall with Mexico, which means they don't want to keep Americans safe;straw man
+411;"You ask your mother if you can go to the mall with your friends. She says ""no"". You ask why? She says, ""because I'm the mom and I say so"".";appeal to authority
+412;Famous actors like Alex Gonzaga and Philip Salvador support Oplan Tokhang, so it must be an effective operation.;appeal to authority
+413;We should move to the Midwest because Mujtaba from the Wall Street Journal says the cost of living is cheaper there.;appeal to authority
+414;Since Dwayne Johnson (aka The Rock) endorsed this protein powder, it must work wonders.;appeal to authority
+415;Richard Dawkins, an evolutionary biologist and perhaps the foremost expert in the field, says that evolution is true. Therefore, I believe it's true.;appeal to authority
+416;"""Stephen Hawking in the smartest scientist on the planet, so if he says global warming is real, it must be true!""";appeal to authority
+417;Police officers agree that Blackjack Steering Wheel Locks are the most effective deterrent against car theft.;appeal to authority
+418;A book argues that global warming is not actually happening, and cites the research of one environmental scientist who has been studying climate change for several years.;appeal to authority
+419;A little boy says that his friends should not go swimming in a river because his Mama said there were germs in the river.;appeal to authority
+420;My sister-in-law, who is a teacher, said that this school is not somewhere that I would want to send my children.;appeal to authority
+421;Look, it doesn't matter whether or not you think America should build a wall on the border. The President thinks America should do it, so it's a good idea.;appeal to authority
+422;Ms. Drayer, the smartest person in the universe, says the debate is the best class, therefore it is.;appeal to authority
+423;An ad claims that 3 out of 4 real estate agents reccommend moving to Sunnyville, California.;appeal to authority
+424;"""If my years as a Marine taught me anything, it's that caution is the best policy in this sort of situation.""";appeal to authority
+425;"""You know me - I've taught Sunday School at your church for years, babysat your children, and served as a playground director for many summers - so you know I can run your preschool.""";appeal to authority
+426;"""Dr. Vicky Belo said that all kind of cars need fuel to start.""";appeal to authority
+427;I have served over 20 years in the military, and based on my professional opinion, I believe more money needs to be spent on protective armor and military vehicles.;appeal to authority
+428;As a police officer who has worked for the city for 15 years, I have been a witness to distracted drivers and something needs to be done.;appeal to authority
+429;My friend said that if you sneeze more than three times, you have the corona virus.;appeal to authority
+430;Despite the fact that our Q4 numbers are much lower than usual, we should push forward using the same strategy because our CEO Barbara says this is the best approach.;appeal to authority
+431;Dr. McKenzie said all kids can fly, so it must be true!;appeal to authority
+432;Not able to defend his position that evolution 'isn't true' Bob says that he knows a scientist who also questions evolution (and presumably isn't a primate).;appeal to authority
+433;My professor, who has a Ph.D. in Astronomy, once told me that ghosts are real. Therefore, ghosts are real.;appeal to authority
+434;You should eat more green leafy vegetables, because Ms. Lord says so, and she is an expert on grammar and vocabulary.;appeal to authority
+435;My cousin Bob works as a mechanic at Oil Changers and he says that renewable energy sources, such as solar and wind power, aren't going to provide any help in fixing our nation's energy crisis.;appeal to authority
+436;The owner of the car dealership by my house told me I need a new car, and he would know since he works in the industry.;appeal to authority
+437;I think scientists are wrong. There is no such thing as global warming. I just finished talking to my boss, and he thought the idea was ridiculous.;appeal to authority
+438;"""My best friend tweeted about the health benefits of pizza, and so we're going to out to eat two vegetable pizzas tonight.""";appeal to authority
+439;U.S. Sen. Tom Coburn says that lesbianism is rampant in the Oklahoma schools. This must, indeed, be true, because surely the senator couldn't be mistaken about the schools in his own state.;appeal to authority
+440;3 out of 4 real estate agents reccommend moving to Sunnyville, California.;appeal to authority
+441;Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.;none
+442;Roman Atwood is a content creator.;none
+443;History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.;none
+444;Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.;none
+445;The Boston Celtics play their home games at TD Garden.;none
+446;The Ten Commandments is an epic film.;none
+447;Tetris has sold millions of physical copies.;none
+448;Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.;none
+449;There is a movie called The Hunger Games.;none
+450;Ryan Gosling has been to a country in Africa.;none
+451;Ryan Seacrest is a person.;none
+452;Michael Giacchino composed the score for Doctor Strange.;none
+453;Robert J. O'Neill was born April 10, 1976.;none
+454;The Silence of the Lambs was a film starring Scott Glenn.;none
+455;Tupac Shakur was born Lesane Parish Crooks.;none
+456;The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.;none
+457;Slovenia uses the euro.;none
+458;Iowa is a part of the Midwestern United States.;none
+459;Saratoga is an American film from 1937.;none
+460;J. Howard Marshall was a baby.;none
+461;Lisbon has a population larger than 1.;none
+462;One state of the United States has Russia to its west.;none
+463;Sophie Turner was born in the 1990s.;none
+464;Mother Teresa was made a saint by the church.;none
+465;The Smurfs (film) was released.;none
+466;Berlin is the capital of Germany.;none
+467;South Korea has a highly educated workforce.;none
+468;Nicholas Brody is a character on Homeland.;none
+469;CBS is the network that aired The Millers.;none
+470;Ann Richards was professionally involved in politics.;none
