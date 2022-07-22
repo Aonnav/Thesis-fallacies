@@ -46,10 +46,10 @@ def fallacies():
 
 
 if __name__ == '__main__':
-    #fallacies()
-    #df['gpt_fallacy2'] = gpt_fallacy
-    #print(df)
-    #df.to_csv(r'D:\Documents\Uni\TW\B3\Scriptie\Data\FullGPT.csv')
+    fallacies()
+    df['gpt_fallacy2'] = gpt_fallacy
+    print(df)
+    df.to_csv(r'D:\Documents\Uni\TW\B3\Scriptie\Data\FullGPT.csv')
 
 
     df = pandas.read_csv(r'D:\Documents\Uni\TW\B3\Scriptie\Stats\Scriptie\FullGPT.csv', sep=';')
